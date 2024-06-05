@@ -1,0 +1,23 @@
+*{
+    font-family: Helvetica, Monospace, sans-serif;
+}
+.veg{
+    color: rgb(179,193,104);
+}
+
+.coffee{
+    color: rgb(145,92,0);
+}
+
+.cin{
+    color: rgb(206,132,5);
+}
+
+#title{
+    font-weight: 800;
+    font-size: 36px;
+}
+
+h2{
+    text-align: center;
+}
